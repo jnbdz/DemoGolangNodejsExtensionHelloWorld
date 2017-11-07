@@ -245,3 +245,9 @@ node_modules/
 conf/*
 !conf/
 !conf/default
+
+#############
+## C/C++ generate files
+#############
+
+*.a
